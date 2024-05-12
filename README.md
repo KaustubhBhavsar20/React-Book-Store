@@ -2,6 +2,10 @@ This is frontend application using React.js.
 This project includes APIs, UI and  dynamically loading data from APIs.
 This is a Book Store.
 
+Run Project using-
+npm install
+npm start
+
 More details- 
 
 APIs Used-
@@ -24,6 +28,9 @@ the "GET /Books" API.
 ● Link from the Books Page to navigate to the Book-Details Page for each book.
 
 Project Screenshots-
+
 ![image](https://github.com/KaustubhBhavsar20/React-Book-Store/assets/114724744/1eb79e59-52dd-409b-8b21-145dc45a0ad3)
+
+
 ![image](https://github.com/KaustubhBhavsar20/React-Book-Store/assets/114724744/859dc3b2-866a-40f7-8f0e-e83e04f4c8b4)
 
